@@ -35,7 +35,7 @@ PythonNumpy/
 
 Clone the repository:
 
-  git clone https://github.com/your-username/PythonNumpy.git
+  git clone https://github.com/subhasmita-majumdar/PythonNumpy.git
   cd numpy-basics
 
 
